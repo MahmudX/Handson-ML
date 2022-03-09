@@ -1,6 +1,6 @@
 # Save Strategy
 
-Use dill to save and  restore `.ipynb` session variables.
+Use `dill` to save and  restore `.ipynb` session variables.
 
 ```py
 try:
